@@ -10,10 +10,8 @@
 <div>
      <img align ="right" alt="developer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" alt="jay">
      
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayzade131&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkondi" /></p>
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayzade131" alt="jayzade131" /></a> </p>-->
-     </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishalkondi&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkondi" /></p>
+
      
 <div>
 
