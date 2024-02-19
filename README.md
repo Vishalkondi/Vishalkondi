@@ -37,7 +37,7 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/vishalkondi123" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="vishalkondi"  /></a>
-<a href="www.linkedin.com/in/vishal-kondi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="vishalkondi"  /></a>
+<a href="https://www.linkedin.com/in/vishal-kondi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="vishalkondi"  /></a>
 <a href="https://instagram.com/slayerrr_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="hey.slayerrr"  /></a>
 <a href="https://www.hackerrank.com/jaykumarzade" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="jaykumarzade"  /></a>
      <a href="https://github.com/Jayzade131" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"  /></a>
