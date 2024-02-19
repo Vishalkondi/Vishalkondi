@@ -10,7 +10,7 @@
 <div>
      <img align ="right" alt="developer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" alt="jay">
      
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayzade131&label=Profile%20views&color=0e75b6&style=flat" alt="jayzade131" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayzade131&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkondi" /></p>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayzade131" alt="jayzade131" /></a> </p>-->
      </div>
@@ -38,7 +38,7 @@
 <p align="center">
 <a href="https://twitter.com/vishalkondi123" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="vishalkondi"  /></a>
 <a href="https://www.linkedin.com/in/vishal-kondi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="vishalkondi"  /></a>
-<a href="https://instagram.com/slayerrr_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="hey.slayerrr"  /></a>
+<a href="https://www.instagram.com/vishal_kondi_21/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="vishalkondi"  /></a>
 <a href="https://www.hackerrank.com/jaykumarzade" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="jaykumarzade"  /></a>
      <a href="https://github.com/Jayzade131" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"  /></a>
 </p>
