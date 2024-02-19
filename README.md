@@ -40,8 +40,7 @@
 <a href="https://www.linkedin.com/in/vishal-kondi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="vishalkondi"  /></a>
 <a href="https://www.instagram.com/vishal_kondi_21/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="vishalkondi"  /></a>
 
-     <a href="https://github.com/Jayzade131" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"  /></a>
-</p>
+    
 <br>
 
 <h2 align="center">Languages and Tools:</h2>
