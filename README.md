@@ -17,15 +17,15 @@
      
 <div>
 
-- 🔭 I’m currently working on *SpringBoot*
+- 🔭 I’m currently working on *Javascript*
 
-- 🌱 I’m currently learning *Angular*
+- 🌱 I’m currently learning *Reactjs*
 
 - 👯 I’m looking to collaborate on *Open Source Projects*
 
-- 📫 How to reach me *jaykumarzade@gmail.com*
+- 📫 How to reach me *vishalkondi21@gmail.com*
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1hhKgELmt6HkVlGxIS2Xo5gNFX1FigZ5_/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1VVv7lIgro7FWGHM7U5v-k50Qnn2x8oZy/view?usp=sharing)
 
 - ⚡ Fun fact *I am Pro Gamer*
 
