@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on *Reactjs *
 
-- 🌱 I’m currently learning * Springboot*
+- 🌱 I’m currently learning * java*
 
 - 👯 I’m looking to collaborate on *Open Source Projects*
 
