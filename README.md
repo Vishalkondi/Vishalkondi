@@ -84,11 +84,16 @@
 ---
 
 ### 🎨 **Achieve More with Badges:**
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Vishalkondi&label=PROFILE+VIEWS&color=brightgreen)
-  ![GitHub Stars](https://img.shields.io/github/stars/Vishalkondi?style=flat-square&color=yellow)
-  ![GitHub Followers](https://img.shields.io/github/followers/Vishalkondi?style=flat-square&color=blue)
-</p>
+<div align="center">
+  <p style="font-size: 18px; font-weight: bold; color: #333;">Showcase Your Achievements:</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Vishalkondi&label=PROFILE+VIEWS&color=brightgreen" alt="Profile Views" style="margin: 10px; border-radius: 10px;">
+    <img src="https://img.shields.io/github/stars/Vishalkondi?style=flat-square&color=yellow" alt="GitHub Stars" style="margin: 10px; border-radius: 10px;">
+    <img src="https://img.shields.io/github/followers/Vishalkondi?style=flat-square&color=blue" alt="GitHub Followers" style="margin: 10px; border-radius: 10px;">
+  </p>
+  <p style="font-size: 14px; color: #555;">These badges highlight your profile views, GitHub stars, and followers.</p>
+</div>
+
 
 ---
 
