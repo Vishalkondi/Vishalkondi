@@ -41,8 +41,21 @@
 
 ---
 
-📊 GitHub Stats
-<div align="center" style="background: linear-gradient(to bottom right, #118DFF, #3B3F8F); padding: 20px; border-radius: 15px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);"> <h2 style="color: #FFF; font-family: Arial, sans-serif;">✨ My GitHub Insights ✨</h2> <div> <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" style="border-radius: 15px; margin: 10px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkondi&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top Languages" style="border-radius: 15px; margin: 10px;" /> </div> <div style="color: #FFF; margin-top: 15px; font-family: Arial, sans-serif;"> <p>🔥 Active contributor on open source projects</p> <p>💡 Learning new tools and frameworks every day!</p> </div> </div>
+### 📊 **GitHub Stats**  
+<div align="center" style="background: linear-gradient(to bottom right, #118DFF, #3B3F8F); padding: 30px; border-radius: 20px; box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.3); width: 90%; margin: auto;">
+  <h2 style="color: #FFF; font-family: 'Arial', sans-serif; font-size: 24px; font-weight: bold;">✨ My GitHub Insights ✨</h2>
+  
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" style="border-radius: 15px; width: 48%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkondi&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top Languages" style="border-radius: 15px; width: 48%;"/>
+  </div>
+  
+  <div style="color: #FFF; margin-top: 20px; font-size: 16px; font-family: 'Arial', sans-serif;">
+    <p>🔥 Active contributor to open-source projects</p>
+    <p>💡 Continuously learning new tools and frameworks!</p>
+  </div>
+</div>
+
 
 <br/>
 
