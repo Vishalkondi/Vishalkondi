@@ -42,19 +42,32 @@
 ---
 
 ### 📊 **GitHub Stats**  
-<div align="center" style="background: linear-gradient(to bottom right, #118DFF, #3B3F8F); padding: 30px; border-radius: 20px; box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.3); width: 90%; margin: auto;">
-  <h2 style="color: #FFF; font-family: 'Arial', sans-serif; font-size: 24px; font-weight: bold;">✨ My GitHub Insights ✨</h2>
+<div align="center" style="background: linear-gradient(to bottom right, #118DFF, #3B3F8F); padding: 40px; border-radius: 25px; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.4); width: 85%; margin: auto; transition: all 0.3s ease;">
+  <h2 style="color: #FFF; font-family: 'Arial', sans-serif; font-size: 26px; font-weight: 700; letter-spacing: 1px;">✨ My GitHub Insights ✨</h2>
   
-  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" style="border-radius: 15px; width: 48%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkondi&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top Languages" style="border-radius: 15px; width: 48%;"/>
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" style="border-radius: 15px; width: 48%; transition: transform 0.3s ease;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkondi&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top Languages" style="border-radius: 15px; width: 48%; transition: transform 0.3s ease;"/>
   </div>
   
-  <div style="color: #FFF; margin-top: 20px; font-size: 16px; font-family: 'Arial', sans-serif;">
+  <div style="color: #FFF; margin-top: 20px; font-size: 18px; font-family: 'Arial', sans-serif;">
     <p>🔥 Active contributor to open-source projects</p>
     <p>💡 Continuously learning new tools and frameworks!</p>
   </div>
 </div>
+
+<script>
+  // Adding hover effect to images
+  const statsImages = document.querySelectorAll('img');
+  statsImages.forEach((image) => {
+    image.addEventListener('mouseover', () => {
+      image.style.transform = 'scale(1.05)';
+    });
+    image.addEventListener('mouseout', () => {
+      image.style.transform = 'scale(1)';
+    });
+  });
+</script>
 
 
 <br/>
