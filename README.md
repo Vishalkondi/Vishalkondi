@@ -14,13 +14,32 @@
 
 ---
 
-### 🚀 About Me:
-- 🔭 I’m currently working on **Node.js**  
-- 🌱 I’m learning **AWS DevOps** to advance my cloud skills  
-- 👯 Seeking collaborations on **Open Source Projects**  
-- 💌 Reach me at **[vishalkondi21@gmail.com](mailto:vishalkondi21@gmail.com)**  
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1VVv7lIgro7FWGHM7U5v-k50Qnn2x8oZy/view?usp=sharing)**  
-- ⚡ Fun fact: **I’m a Pro Gamer 🎮**  
+🚀 About Me
+<div align="center" style="background: linear-gradient(to bottom right, #3B3F8F, #118DFF); padding: 20px; border-radius: 15px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);"> <h2 style="color: #FFF; font-family: 'Arial', sans-serif;">💡 Get to Know Me</h2> <ul style="list-style: none; padding: 0; color: #FFF; font-size: 18px; line-height: 1.8; text-align: left; margin: auto; max-width: 600px; font-family: 'Verdana', sans-serif;"> <li>🔭 I’m currently working on <b>Node.js</b></li> <li>🌱 Expanding my expertise in <b>AWS DevOps</b> to excel in cloud technologies</li> <li>👯 Excited to collaborate on innovative <b>Open Source Projects</b></li> <li>💌 Reach me at: <a href="mailto:vishalkondi21@gmail.com" style="color: #FFD700; text-decoration: none;"><b>vishalkondi21@gmail.com</b></a></li> <li>📄 Discover my professional journey: <a href="https://drive.google.com/file/d/1VVv7lIgro7FWGHM7U5v-k50Qnn2x8oZy/view?usp=sharing" style="color: #FFD700; text-decoration: none;"><b>Resume</b></a></li> <li>⚡ Fun fact: <b>I’m a Pro Gamer 🎮</b></li> </ul> </div>
+✨ UI Improvements:
+Background Gradient: A seamless blend of blue shades enhances the visual appeal.
+Rounded Container: Rounded edges with a subtle shadow give it a modern, clean look.
+Font Customization: Adjusted to an easy-to-read, professional typeface.
+Interactive Links:
+Links are styled with golden text for visibility.
+Added hover effects with CSS for interactivity:
+css
+Copy code
+a:hover {
+    text-decoration: underline;
+    color: #FFF;
+}
+Alignment: Center-aligned heading with left-aligned bullet points ensures readability.
+Would you like to add icons or animations for a more dynamic touch?
+
+
+
+
+
+
+
+
+You’ve hit the Free plan limit for GPT-4o.
 
 <br/>
 
