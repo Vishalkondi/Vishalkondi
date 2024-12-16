@@ -15,9 +15,9 @@
      
 <div>
 
-- 🔭 I’m currently working on *Reactjs *
+- 🔭 I’m currently working on *Nodejs *
 
-- 🌱 I’m currently learning * java*
+- 🌱 I’m currently learning *AWS*
 
 - 👯 I’m looking to collaborate on *Open Source Projects*
 
