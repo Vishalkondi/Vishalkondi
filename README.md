@@ -42,7 +42,7 @@
 ---
 ### 📊 **GitHub Stats**  
 <div align="center" style="background: linear-gradient(to bottom right, #118DFF, #3B3F8F); padding: 40px; border-radius: 30px; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3); width: 85%; margin: auto;">
-  <h2 style="color: #FFF; font-family: 'Arial', sans-serif; font-size: 30px; font-weight: 700; margin-bottom: 20px; letter-spacing: 1px;">✨ GitHub Insights ✨</h2>
+  <h2 style="color: #FFF; font-family: 'Arial', sans-serif; font-size: 30px; font-weight: 400; margin-bottom: 20px; letter-spacing: 1px;">✨ GitHub Insights ✨</h2>
   
   <div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-bottom: 25px;">
     <div style="text-align: center; width: 48%; min-width: 320px;">
