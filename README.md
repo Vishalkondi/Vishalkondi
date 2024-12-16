@@ -55,18 +55,7 @@
   </div>
 </div>
 
-<script>
-  // Adding hover effect to images
-  const statsImages = document.querySelectorAll('img');
-  statsImages.forEach((image) => {
-    image.addEventListener('mouseover', () => {
-      image.style.transform = 'scale(1.05)';
-    });
-    image.addEventListener('mouseout', () => {
-      image.style.transform = 'scale(1)';
-    });
-  });
-</script>
+
 
 
 
