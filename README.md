@@ -43,12 +43,8 @@
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&count_private=true&theme=transparent&border_color=f5f2d0&title_color=118DFF&text_color=f5f2d0&border_radius=10" alt="GitHub Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkondi&layout=compact&theme=transparent&border_color=f5f2d0&title_color=118DFF&text_color=f5f2d0&border_radius=10" alt="Top Languages"/>
-</div>
+📊 GitHub Stats
+<div align="center" style="background: linear-gradient(to bottom right, #118DFF, #3B3F8F); padding: 20px; border-radius: 15px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);"> <h2 style="color: #FFF; font-family: Arial, sans-serif;">✨ My GitHub Insights ✨</h2> <div> <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" style="border-radius: 15px; margin: 10px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkondi&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top Languages" style="border-radius: 15px; margin: 10px;" /> </div> <div style="color: #FFF; margin-top: 15px; font-family: Arial, sans-serif;"> <p>🔥 Active contributor on open source projects</p> <p>💡 Learning new tools and frameworks every day!</p> </div> </div>
 
 <br/>
 
