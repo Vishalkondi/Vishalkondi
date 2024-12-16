@@ -40,27 +40,28 @@
 <div align="center" style="background-color:#f8f9fa; border-radius: 15px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"> <div> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" style="margin: 15px;"> </div> <div> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" style="margin: 15px;"> <img src="https://img.icons8.com/officel/48/000000/react.png" alt="React" title="React" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" style="margin: 15px;"> </div> <div> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" title="Postman" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" title="Redis" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" style="margin: 15px;"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" style="margin: 15px;"> </div> </div>
 
 ---
-
 ### 📊 **GitHub Stats**  
-<div align="center" style="background: linear-gradient(to bottom right, #118DFF, #3B3F8F); padding: 40px; border-radius: 25px; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.4); width: 80%; margin: auto;">
-  <h2 style="color: #FFF; font-family: 'Arial', sans-serif; font-size: 28px; font-weight: 700; letter-spacing: 1px; margin-bottom: 30px;">✨ My GitHub Insights ✨</h2>
+<div align="center" style="background: linear-gradient(to bottom right, #118DFF, #3B3F8F); padding: 40px; border-radius: 30px; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3); width: 85%; margin: auto;">
+  <h2 style="color: #FFF; font-family: 'Arial', sans-serif; font-size: 30px; font-weight: 700; margin-bottom: 20px; letter-spacing: 1px;">✨ GitHub Insights ✨</h2>
   
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 20px;">
-    <div style="text-align: center; width: 48%; min-width: 300px;">
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-bottom: 25px;">
+    <div style="text-align: center; width: 48%; min-width: 320px;">
       <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" style="border-radius: 15px; width: 100%;"/>
-      <p style="color: #FFF; font-size: 14px; margin-top: 10px;">GitHub Stats</p>
+      <p style="color: #FFF; font-size: 16px; margin-top: 10px; font-weight: 600;">GitHub Stats</p>
     </div>
-    <div style="text-align: center; width: 48%; min-width: 300px;">
+    <div style="text-align: center; width: 48%; min-width: 320px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkondi&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top Languages" style="border-radius: 15px; width: 100%;"/>
-      <p style="color: #FFF; font-size: 14px; margin-top: 10px;">Top Languages</p>
+      <p style="color: #FFF; font-size: 16px; margin-top: 10px; font-weight: 600;">Top Languages</p>
     </div>
   </div>
   
-  <div style="color: #FFF; font-size: 18px; font-family: 'Arial', sans-serif; line-height: 1.6;">
+  <div style="color: #FFF; font-size: 18px; font-family: 'Arial', sans-serif; line-height: 1.6; text-align: center;">
     <p>🔥 **Active contributor to open-source projects**</p>
     <p>💡 **Learning new tools and frameworks every day!**</p>
   </div>
 </div>
+
+   >
 
 
 
