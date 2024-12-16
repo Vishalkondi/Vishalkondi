@@ -13,16 +13,13 @@
 <br/>
 
 ---
-🚀 About Me
-<div align="center" style="background: #f8f9fa; padding: 30px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); max-width: 800px; margin: auto;"> <h2 style="font-family: 'Arial', sans-serif; color: #007bff; font-size: 24px; margin-bottom: 20px;">💡 A Little About Me</h2> <ul style="list-style: none; padding: 0; color: #333; font-size: 18px; line-height: 1.6; text-align: left; font-family: 'Verdana', sans-serif;"> <li style="margin-bottom: 10px;">🔭 Currently working on <strong>Node.js</strong></li> <li style="margin-bottom: 10px;">🌱 Learning <strong>AWS DevOps</strong> to enhance my cloud skills</li> <li style="margin-bottom: 10px;">👯 Open to collaborate on <strong>Open Source Projects</strong></li> <li style="margin-bottom: 10px;">💌 Reach me at: <a href="mailto:vishalkondi21@gmail.com" style="color: #007bff; text-decoration: none;">vishalkondi21@gmail.com</a></li> <li style="margin-bottom: 10px;">📄 Check out my <a href="https://drive.google.com/file/d/1VVv7lIgro7FWGHM7U5v-k50Qnn2x8oZy/view?usp=sharing" style="color: #007bff; text-decoration: none;">Resume</a></li> <li>⚡ Fun fact: <strong>I’m a Pro Gamer 🎮</strong></li> </ul> </div>
-UI Features:
-
-
-
-
-
-
-
+### 🚀 About Me:
+- 🔭 I’m currently working on **Node.js**  
+- 🌱 I’m learning **AWS DevOps** to advance my cloud skills  
+- 👯 Seeking collaborations on **Open Source Projects**  
+- 💌 Reach me at **[vishalkondi21@gmail.com](mailto:vishalkondi21@gmail.com)**  
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1VVv7lIgro7FWGHM7U5v-k50Qnn2x8oZy/view?usp=sharing)**  
+- ⚡ Fun fact: **I’m a Pro Gamer 🎮**  
 
 
 ---
