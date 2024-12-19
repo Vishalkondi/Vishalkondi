@@ -68,7 +68,6 @@
   <div> 
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" title="Spring" style="margin: 15px;"> 
     <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" title="Hibernate" style="margin: 15px;"> 
-    <img src="https://img.icons8.com/color/48/000000/javafx-logo.png" alt="JavaFX" title="JavaFX" style="margin: 15px;"> 
   </div>
 </div>
 
