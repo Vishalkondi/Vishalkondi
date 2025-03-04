@@ -27,17 +27,33 @@
 
 ---
 
+## 🛠 Languages & Tools  
+<div align="center" style="background-color:#f8f9fa; border-radius: 15px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"> 
+  <div> 
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" style="margin: 15px;"> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" style="margin: 15px;"> 
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" style="margin: 15px;"> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" style="margin: 15px;"> 
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" style="margin: 15px;"> 
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" style="margin: 15px;"> 
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" style="margin: 15px;"> 
+  </div> 
+</div>
+
+---
+
 ## 🔥 Tech Stack  
-### ☕ Backend Development  
+### ☕ Backend  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)  
 
-### 🌐 Frontend Development  
+### 🌐 Frontend  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ### 🛢️ Database  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -50,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🔥 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -61,49 +77,28 @@
 
 ---
 
-## 🚀 Featured Projects  
-### **🔖 Online Book Store (Java, JSP, MySQL)**  
-📌 **Features:** Browse, search, and manage books with user authentication.  
-🔗 **GitHub Repo:** [Online Book Store](https://github.com/Vishalkondi/online-bookstore)  
-
-### **🛒 E-Commerce Website (React.js & Bootstrap)**  
-📌 **Features:** Dynamic shopping experience with product browsing & cart system.  
-🔗 **GitHub Repo:** [E-Commerce Website](https://github.com/Vishalkondi/ecommerce)  
-
-### **🌦️ Weather App using React.js**  
-📌 **Features:** Fetches real-time weather data with an interactive UI.  
-🔗 **GitHub Repo:** [Weather App](https://github.com/Vishalkondi/weather-app)  
-
-### **🏏 Cricket Score API App (React & Real-time Data)**  
-📌 **Features:** Live match updates with real-time API integration.  
-🔗 **GitHub Repo:** [Cricket Score API](https://github.com/Vishalkondi/cricket-score-app)  
+## 📚 Featured Projects  
+🚀 [Online Book Store (Java, JSP, MySQL)](https://github.com/Vishalkondi/online-bookstore)  
+🛍️ [E-Commerce Website (React.js & Bootstrap)](https://github.com/Vishalkondi/ecommerce)  
+🌦️ [Weather App using React.js](https://github.com/Vishalkondi/weather-app)  
+🏏 [Cricket Score API App (React & Real-time Data)](https://github.com/Vishalkondi/cricket-score-app)  
 
 ---
 
-## 🎓 Certifications  
-✅ **Tata Group Cybersecurity Analyst (Forage)**  
-✅ **AWS Fundamentals (Coursera)**  
-✅ **Java Full Stack Development Bootcamp**  
+## 📜 Certifications  
+✅ Tata Group Cybersecurity Analyst (Forage)  
+✅ AWS Fundamentals (Coursera)  
+✅ Java Full Stack Development Bootcamp  
 
 ---
 
-## 🎯 Fun Facts  
-💡 I love **building scalable backend systems with Java & Spring Boot**  
-⚡ In my free time, I **contribute to open-source projects** and **explore DevOps tools**  
-💬 Ask me about **Java, Spring Boot, REST APIs, SQL, DevOps, and Cloud Computing**  
-
----
-
-## 📞 How to Reach Me  
+## 🌍 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/vishalkondi/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Vishalkondi">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:vishalkondi@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -112,11 +107,3 @@
 ⭐ **Feel free to explore my repositories and contribute!**  
 🚀 **Let's innovate and build together!**  
 
----
-
-### ✅ **Final Touch:**  
-- Add **portfolio link** (if available).  
-- Replace `"yourhandle"` in Twitter with your actual handle.  
-- Adjust email ID `"vishalkondi@example.com"` with your real email.  
-
-Would you like any further refinements? 🚀🔥
