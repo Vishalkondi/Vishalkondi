@@ -1,4 +1,4 @@
-h1 align="center">Hi, I'm Vishal Kondi <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"></h1>
+ I'm Vishal Kondi <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"></h1>
 
 <div align="center">
   <a href="#">
