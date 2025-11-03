@@ -87,58 +87,7 @@
 
 ---
 
-## 📚 Featured Projects (Updated for README.md)
-
-### 🚀 **AI Resume Builder (2024)**  
-**Tech Stack:** MongoDB • Express.js • React.js • Node.js • AI/ML APIs • JWT • Socket.IO  
-An intelligent, AI-driven resume-building platform powered by the **MERN stack**. Helps users create professional resumes instantly with AI-generated suggestions and customizable templates.  
-
-✅ **Key Features:**  
-- AI-powered resume content suggestions and optimization  
-- Multiple professional, customizable templates  
-- Real-time collaborative editing using Socket.IO  
-- Secure authentication using JWT  
-- Automated formatting for clean, export-ready resumes  
-
----
-
-### ⚽ **Turf Booking System (2024)**  
-**Tech Stack:** React.js • JavaScript • CSS3 • REST API • Payment Gateway • Authentication  
-A complete sports turf booking platform that enables users to check availability, book slots, and manage their reservations seamlessly.  
-
-✅ **Key Features:**  
-- Real-time turf availability tracking  
-- Secure booking & payment integration  
-- User dashboard for viewing and managing bookings  
-- Authentication system with protected routes  
-
----
-
-### 🏥 **Doctor Appointment Booking (Jan 2023 – Apr 2023)**  
-**Tech Stack:** React.js • JavaScript • CSS3 • Responsive UI • API Integration  
-A responsive doctor appointment scheduling system supporting easy booking and management of appointments across devices.  
-
-✅ **Key Features:**  
-- Appointment booking and tracking  
-- Fully responsive UI for mobile/desktop  
-- Doctor availability and slot management  
-- Smooth API integration for dynamic data  
-
----
-
-### 💬 **Real-Time Chat App — MERN (Nov 2022)**  
-**Tech Stack:** MongoDB • Express.js • React.js • Node.js • Socket.IO • JWT  
-A real-time chat application built using the **MERN stack**, delivering instant messaging with secure authentication and WebSocket-based communication.  
-
-✅ **Key Features:**  
-- WebSocket-powered real-time messaging  
-- JWT authentication for secure access  
-- Encrypted password storage for safety  
-- Modern, clean chat UI  
-- Socket.IO for instant communication  
-
----
-
+## 📚 Featured Projects  
 ### ✅ **Online Book Store (Java + JSP + MySQL)**  
 🔗 [GitHub Repo](https://github.com/Vishalkondi/online-bookstore)  
 Backend-heavy project with CRUD, authentication & admin features.
@@ -182,3 +131,4 @@ Live match updates with optimized state management.
 
 ⭐ **Thanks for visiting! Feel free to explore my repositories.**  
 🚀 **Let’s build something amazing together!**
+
