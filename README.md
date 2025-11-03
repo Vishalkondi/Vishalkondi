@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Hey there! I'm <strong>Vishal Kondi</strong> 👋</h1>
-<h3 align="center">Java Developer | Full Stack Developer | DevOps Enthusiast</h3>
+<h3 align="center">Java Developer | Full Stack Developer | DevOps Enthusiast | Freelancer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=37F7C3&center=true&vCenter=true&width=600&lines=Java+Developer;Full+Stack+Web+Development;AWS+%7C+DevOps+Practitioner;React.js+Enthusiast;Lifelong+Learner+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=37F7C3&center=true&vCenter=true&width=600&lines=Java+Developer;Full+Stack+Web+Development;AWS+%7C+DevOps+Practitioner;React.js+Enthusiast;Freelancer+%7C+Lifelong+Learner;Problem+Solver+%7C+Innovator" />
 </p>
 
 ---
@@ -24,6 +24,18 @@
 ✅ Exploring **Cloud (AWS), DevOps, Docker, CI/CD, Kubernetes & Terraform**  
 ✅ Passionate about creating **scalable apps, clean UIs & optimized workflows**  
 ✅ Love **learning, innovating, and solving real-world problems**  
+✅ 💼 Also working as a **Freelancer**, helping clients build full-stack web applications and cloud solutions.
+
+---
+
+## 💼 Freelancing  
+🚀 I also work as a **Freelancer**, specializing in:  
+- Full Stack Web Development (**React.js + Spring Boot**)  
+- Cloud & DevOps Solutions (**AWS, Docker, CI/CD, Terraform**)  
+- Custom Web App Design & API Integration  
+
+📩 **Available for freelance projects** — reach out via  
+**[Email](mailto:vishalkondi21@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/vishalkondi/)**  
 
 ---
 
@@ -75,21 +87,72 @@
 
 ---
 
-## 📚 Featured Projects  
+## 📚 Featured Projects (Updated for README.md)
+
+### 🚀 **AI Resume Builder (2024)**  
+**Tech Stack:** MongoDB • Express.js • React.js • Node.js • AI/ML APIs • JWT • Socket.IO  
+An intelligent, AI-driven resume-building platform powered by the **MERN stack**. Helps users create professional resumes instantly with AI-generated suggestions and customizable templates.  
+
+✅ **Key Features:**  
+- AI-powered resume content suggestions and optimization  
+- Multiple professional, customizable templates  
+- Real-time collaborative editing using Socket.IO  
+- Secure authentication using JWT  
+- Automated formatting for clean, export-ready resumes  
+
+---
+
+### ⚽ **Turf Booking System (2024)**  
+**Tech Stack:** React.js • JavaScript • CSS3 • REST API • Payment Gateway • Authentication  
+A complete sports turf booking platform that enables users to check availability, book slots, and manage their reservations seamlessly.  
+
+✅ **Key Features:**  
+- Real-time turf availability tracking  
+- Secure booking & payment integration  
+- User dashboard for viewing and managing bookings  
+- Authentication system with protected routes  
+
+---
+
+### 🏥 **Doctor Appointment Booking (Jan 2023 – Apr 2023)**  
+**Tech Stack:** React.js • JavaScript • CSS3 • Responsive UI • API Integration  
+A responsive doctor appointment scheduling system supporting easy booking and management of appointments across devices.  
+
+✅ **Key Features:**  
+- Appointment booking and tracking  
+- Fully responsive UI for mobile/desktop  
+- Doctor availability and slot management  
+- Smooth API integration for dynamic data  
+
+---
+
+### 💬 **Real-Time Chat App — MERN (Nov 2022)**  
+**Tech Stack:** MongoDB • Express.js • React.js • Node.js • Socket.IO • JWT  
+A real-time chat application built using the **MERN stack**, delivering instant messaging with secure authentication and WebSocket-based communication.  
+
+✅ **Key Features:**  
+- WebSocket-powered real-time messaging  
+- JWT authentication for secure access  
+- Encrypted password storage for safety  
+- Modern, clean chat UI  
+- Socket.IO for instant communication  
+
+---
+
 ### ✅ **Online Book Store (Java + JSP + MySQL)**  
-🔗 https://github.com/Vishalkondi/online-bookstore  
+🔗 [GitHub Repo](https://github.com/Vishalkondi/online-bookstore)  
 Backend-heavy project with CRUD, authentication & admin features.
 
 ### ✅ **E-Commerce Website (React.js + Bootstrap)**  
-🔗 https://github.com/Vishalkondi/ecommerce  
+🔗 [GitHub Repo](https://github.com/Vishalkondi/ecommerce)  
 Dynamic UI, cart system & component-driven architecture.
 
 ### ✅ **Weather App (React + API Integration)**  
-🔗 https://github.com/Vishalkondi/weather-app  
+🔗 [GitHub Repo](https://github.com/Vishalkondi/weather-app)  
 Real-time data, clean interface & API handling.
 
 ### ✅ **Cricket Score App (React + Live API Data)**  
-🔗 https://github.com/Vishalkondi/cricket-score-app  
+🔗 [GitHub Repo](https://github.com/Vishalkondi/cricket-score-app)  
 Live match updates with optimized state management.
 
 ---
