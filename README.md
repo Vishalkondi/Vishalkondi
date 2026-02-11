@@ -34,7 +34,7 @@
 - Cloud & DevOps Solutions (**AWS, Docker, CI/CD, Terraform**)  
 - Custom Web App Design & API Integration  
 
-📩 **Available for freelance projects** — reach out via  
+📩 **Available for freelance projects** — reach out via
 **[Email](mailto:vishalkondi21@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/vishalkondi/)**  
 
 ---
