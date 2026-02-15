@@ -6,7 +6,6 @@
   <img src="profile-main.jpg" width="200" style="border-radius:50%;" />
 </p>
 
-<p align="center">![portrait jpg](https://github.com/user-attachments/assets/f3bce500-a0c3-4c8f-a44c-b4892da1943f)
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=00C2FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+Specialist;Java+%26+Spring+Boot+Developer;Cloud+%26+DevOps+Learner;Freelancer+%7C+Problem+Solver" />
 </p>
