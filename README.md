@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Kondi</h1>
 <h3 align="center">Frontend Developer @ Rockline Solutions | Full Stack Developer | DevOps Enthusiast | Freelancer</h3>
 
-<p align="center">![office jpg](https://github.com/user-attachments/assets/799d9c64-0719-4409-88bc-786b594bf260)
-![Uploading profile.jpg.jpeg…]()
+
 
   <img src="profile-main.jpg" width="200" style="border-radius:50%;" />
 </p>
