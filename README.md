@@ -1,134 +1,106 @@
-<h1 align="center">🚀 Hey there! I'm <strong>Vishal Kondi</strong> 👋</h1>
-<h3 align="center">Java Developer | Full Stack Developer | DevOps Enthusiast | Freelancer</h3>
+<h1 align="center">Hi 👋, I'm Vishal Kondi</h1>
+<h3 align="center">Frontend Developer @ Rockline Solutions | Full Stack Developer | DevOps Enthusiast | Freelancer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=37F7C3&center=true&vCenter=true&width=600&lines=Java+Developer;Full+Stack+Web+Development;AWS+%7C+DevOps+Practitioner;React.js+Enthusiast;Freelancer+%7C+Lifelong+Learner;Problem+Solver+%7C+Innovator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=00C2FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+Specialist;Java+%26+Spring+Boot+Developer;Cloud+%26+DevOps+Learner;Freelancer+%7C+Problem+Solver" />
 </p>
 
 ---
 
+## 🚀 About Me  
+
+💼 Frontend Developer at **Rockline Solutions Pvt. Ltd. (Remote)**  
+🛒 Working on **Supermart – Online Grocery Web Application**  
+☕ Strong backend foundation in **Java & Spring Boot**  
+🌐 Passionate about building scalable, clean & high-performance web apps  
+☁️ Exploring **AWS, Docker, Kubernetes & CI/CD**  
+🌍 Freelancer delivering full-stack & cloud solutions  
+
+---
+
+# 💼 Professional Experience  
+
+## 👨‍💻 Frontend Developer  
+**Rockline Solutions Pvt. Ltd.**  
+📅 Aug 2024 – Present | Remote  
+
+### 🛒 Supermart – Online Grocery Web App  
+
+✔ Built responsive React-based UI  
+✔ Implemented dynamic cart system  
+✔ Developed search & filtering features  
+✔ Integrated REST APIs for product & order handling  
+✔ Used Hooks, reusable components & optimized state management  
+
+---
+
+# 🛠️ Tech Stack  
+
 <p align="center">
-  <a href="https://github.com/Vishalkondi">
-    <img src="https://komarev.com/ghpvc/?username=Vishalkondi&label=Profile+Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/Vishalkondi?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vishalkondi?label=Followers&style=social" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,tailwind,nodejs,mysql,postgres,mongodb,docker,aws,kubernetes,terraform,linux,git" />
+
 </p>
 
 ---
 
-## 🌟 About Me  
-✅ Java Developer skilled in **Spring Boot, REST APIs & Microservices**  
-✅ Full Stack Developer experienced in **React.js, JavaScript, SQL & Node.js**  
-✅ Exploring **Cloud (AWS), DevOps, Docker, CI/CD, Kubernetes & Terraform**  
-✅ Passionate about creating **scalable apps, clean UIs & optimized workflows**  
-✅ Love **learning, innovating, and solving real-world problems**  
-✅ 💼 Also working as a **Freelancer**, helping clients build full-stack web applications and cloud solutions.
+# 📊 GitHub Analytics  
 
----
-
-## 💼 Freelancing  
-🚀 I also work as a **Freelancer**, specializing in:  
-- Full Stack Web Development (**React.js + Spring Boot**)  
-- Cloud & DevOps Solutions (**AWS, Docker, CI/CD, Terraform**)  
-- Custom Web App Design & API Integration  
-
-📩 **Available for freelance projects** — reach out via
-**[Email](mailto:vishalkondi21@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/vishalkondi/)**  
-
----
-
-## 🛠️ Languages & Tools  
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" />
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" />
-  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind" />
-  <img src="https://img.icons8.com/color/48/react-native.png" title="React.js" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" />
-  <img src="https://img.icons8.com/color/48/docker.png" title="Docker" />
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS" />
-  <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux" />
-</div>
-
----
-
-## 🔥 Tech Stack  
-
-### ☕ Backend  
-- Java • Spring Boot • Hibernate  
-- REST APIs • Microservices  
-- Maven • JDBC  
-
-### 🌐 Frontend  
-- React.js • JavaScript (ES6+)  
-- HTML5 • CSS3 • Bootstrap • Tailwind  
-
-### 🛢️ Databases  
-- MySQL • PostgreSQL • MongoDB  
-
-### ☁️ Cloud & DevOps  
-- AWS • Docker • Kubernetes  
-- GitHub Actions • Jenkins • Terraform  
-- CI/CD • Linux  
-
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalkondi&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalkondi&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalkondi&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📚 Featured Projects  
-### ✅ **Online Book Store (Java + JSP + MySQL)**  
-🔗 [GitHub Repo](https://github.com/Vishalkondi/online-bookstore)  
-Backend-heavy project with CRUD, authentication & admin features.
+# 🚀 Featured Projects  
 
-### ✅ **E-Commerce Website (React.js + Bootstrap)**  
-🔗 [GitHub Repo](https://github.com/Vishalkondi/ecommerce)  
-Dynamic UI, cart system & component-driven architecture.
+### 🛒 Supermart – Online Grocery App  
+Modern React-based grocery platform with cart & API integration.
 
-### ✅ **Weather App (React + API Integration)**  
-🔗 [GitHub Repo](https://github.com/Vishalkondi/weather-app)  
-Real-time data, clean interface & API handling.
+### 📚 Online Book Store  
+Java + JSP + MySQL based backend-heavy project with authentication & CRUD.
 
-### ✅ **Cricket Score App (React + Live API Data)**  
-🔗 [GitHub Repo](https://github.com/Vishalkondi/cricket-score-app)  
+### 🌦️ Weather App  
+Real-time weather data using React & API integration.
+
+### 🏏 Cricket Score App  
 Live match updates with optimized state management.
 
 ---
 
-## 🎓 Certifications  
-- Tata Cybersecurity Analyst – Forage  
-- AWS Fundamentals – Coursera  
-- MTA – Microsoft Technology Associate  
-- Full Stack Java Developer – Envision Institute  
+# 🌍 Freelance Services  
+
+✔ Full Stack Development (React + Spring Boot)  
+✔ REST API Development  
+✔ Cloud Deployment (AWS + Docker)  
+✔ CI/CD Implementation  
+✔ Performance Optimization  
+
+📩 Available for collaboration  
 
 ---
 
-## 🌍 Connect With Me  
+# 🤝 Connect With Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vishalkondi/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Vishalkondi">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:vishalkondi21@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting! Feel free to explore my repositories.**  
-🚀 **Let’s build something amazing together!**
-
+<p align="center">
+⭐ "Building scalable systems. Designing clean UI. Delivering impact."
+</p>
