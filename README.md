@@ -17,7 +17,7 @@ Frontend Developer @ Rockline Solutions | Full Stack Developer | DevOps Enthusia
 
 💼 Frontend Developer at **Rockline Solutions Pvt. Ltd. (Remote)**  
 🛒 Working on **Supermart – Online Grocery Web Application**  
-⚛️ Specializing in **React.js & Next.js**  
+⚛️ Specializing in React.js & Next.js  
 ☕ Strong backend foundation in Java & Spring Boot  
 ☁️ Exploring AWS, Docker, Kubernetes & CI/CD  
 🌍 Freelancer delivering scalable full-stack & cloud solutions  
@@ -39,7 +39,7 @@ Rockline Solutions Pvt. Ltd.
 ✔ Built fully responsive React-based UI  
 ✔ Implemented dynamic cart management  
 ✔ Developed advanced search & filtering  
-✔ Integrated REST APIs for product & order data  
+✔ Integrated REST APIs for product & order handling  
 ✔ Optimized state management using Hooks & Context  
 
 ---
@@ -110,4 +110,19 @@ Git, GitHub, Postman, VS Code, Figma, Netlify, Vercel
 
 ---
 
-# 🤝
+# 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishalkondi/">
+    <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vishalkondi21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ Building scalable systems. Designing clean UI. Delivering impact.
+</p>
