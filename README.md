@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vishal Kondi</h1>
 <h3 align="center">Frontend Developer @ Rockline Solutions | Full Stack Developer | DevOps Enthusiast | Freelancer</h3>
 
-<p align="center">
+<p align="center">![office jpg](https://github.com/user-attachments/assets/799d9c64-0719-4409-88bc-786b594bf260)
+![Uploading profile.jpg.jpeg…]()
+
   <img src="profile-main.jpg" width="200" style="border-radius:50%;" />
 </p>
 
-<p align="center">
+<p align="center">![portrait jpg](https://github.com/user-attachments/assets/f3bce500-a0c3-4c8f-a44c-b4892da1943f)
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=00C2FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+Specialist;Java+%26+Spring+Boot+Developer;Cloud+%26+DevOps+Learner;Freelancer+%7C+Problem+Solver" />
 </p>
 
