@@ -1,7 +1,7 @@
 <!-- ================= PREMIUM HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=260&section=header&text=Vishal%20Kondi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Vishal%20Kondi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h3 align="center">
@@ -18,16 +18,16 @@
 
 ---
 
-# 🧑‍💻 About Me
+# 🧑‍💻 Professional Summary
 
-Passionate Frontend Developer with hands-on experience building scalable web applications.  
-Currently working on production-level React applications at **Rockline Solutions Pvt. Ltd.**
+Passionate Frontend Developer with real-world experience building scalable web applications.  
+Currently developing production-ready React applications at **Rockline Solutions Pvt. Ltd.**
 
-✔ Strong in React & Next.js  
-✔ API Integration & State Management  
-✔ Performance Optimization  
-✔ Full Stack Development  
-✔ Cloud & DevOps Fundamentals  
+✔ Strong expertise in React & Next.js  
+✔ REST API integration & state management  
+✔ Performance optimization & UI architecture  
+✔ Full stack development experience  
+✔ Cloud & DevOps fundamentals  
 
 ---
 
@@ -43,7 +43,7 @@ Currently working on production-level React applications at **Rockline Solutions
 ✔ Implemented advanced search & filtering  
 ✔ Developed dynamic cart system  
 ✔ Integrated REST APIs  
-✔ Improved performance using modern React patterns  
+✔ Optimized performance using modern React patterns  
 
 ---
 
@@ -51,10 +51,10 @@ Currently working on production-level React applications at **Rockline Solutions
 
 ## 🏏 Cricket Turf Booking System
 
-Full-stack booking application enabling users to reserve cricket turfs with real-time slot tracking.
+Full-stack booking platform enabling users to reserve cricket turfs with real-time slot tracking.
 
 ### Key Features:
-✔ Secure authentication & role management  
+✔ Secure authentication & role-based access  
 ✔ Real-time slot availability  
 ✔ Online booking system  
 ✔ Admin dashboard  
@@ -86,15 +86,19 @@ Modern e-commerce platform for seamless shopping experience.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalkondi&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishalkondi&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalkondi&theme=react-dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishalkondi&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishalkondi&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vishalkondi&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -138,5 +142,5 @@ Currently deepening expertise in:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
