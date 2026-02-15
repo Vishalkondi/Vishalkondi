@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishal Kondi</h1>
 <h3 align="center">
-Frontend Developer @ Rockline Solutions | Full Stack Developer | DevOps Enthusiast | Freelancer
+Frontend Developer @ Rockline Solutions | React & Next.js Specialist | Full Stack Developer | Freelancer
 </h3>
 
 <p align="center">
-  <img src="./profile-main.jpg" width="200" style="border-radius:50%;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 <p align="center">
@@ -30,10 +30,6 @@ Frontend Developer @ Rockline Solutions | Full Stack Developer | DevOps Enthusia
 Rockline Solutions Pvt. Ltd.  
 📅 Aug 2024 – Present | Remote  
 
-<p align="center">
-  <img src="./profile-office.jpg" width="600"/>
-</p>
-
 ### 🛒 Supermart – Online Grocery Web App  
 
 ✔ Built fully responsive React-based UI  
@@ -41,14 +37,6 @@ Rockline Solutions Pvt. Ltd.
 ✔ Developed advanced search & filtering  
 ✔ Integrated REST APIs for product & order handling  
 ✔ Optimized state management using Hooks & Context  
-
----
-
-# 👔 Professional Portrait  
-
-<p align="center">
-  <img src="./profile-bw.jpg" width="300"/>
-</p>
 
 ---
 
