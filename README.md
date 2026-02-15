@@ -1,25 +1,30 @@
-<h1 align="center">Hi 👋, I'm Vishal Kondi</h1>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Vishal%20Kondi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h3 align="center">
 Frontend Developer @ Rockline Solutions | React & Next.js Specialist | Full Stack Developer | Freelancer
 </h3>
 
+<!-- Developer GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=00C2FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+%26+Next.js+Specialist;Java+%26+Spring+Boot+Developer;Cloud+%26+DevOps+Learner;Freelancer+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+%26+Next.js+Specialist;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Freelancer+%7C+Problem+Solver"/>
 </p>
 
 ---
 
-## 🚀 About Me  
+# 🚀 About Me  
 
 💼 Frontend Developer at **Rockline Solutions Pvt. Ltd. (Remote)**  
-🛒 Working on **Supermart – Online Grocery Web Application**  
-⚛️ Specializing in React.js & Next.js  
-☕ Strong backend foundation in Java & Spring Boot  
-☁️ Exploring AWS, Docker, Kubernetes & CI/CD  
+⚛️ Specialized in **React.js & Next.js**  
+☕ Strong backend foundation in **Java & Spring Boot**  
+☁️ Exploring **AWS, Docker, Kubernetes & CI/CD**  
 🌍 Freelancer delivering scalable full-stack & cloud solutions  
 
 ---
@@ -27,45 +32,50 @@ Frontend Developer @ Rockline Solutions | React & Next.js Specialist | Full Stac
 # 💼 Professional Experience  
 
 ## 👨‍💻 Frontend Developer  
-Rockline Solutions Pvt. Ltd.  
-📅 Aug 2024 – Present | Remote  
+📍 Rockline Solutions Pvt. Ltd. | Remote  
+📅 Aug 2024 – Present  
 
 ### 🛒 Supermart – Online Grocery Web App  
 
-✔ Built fully responsive React-based UI  
-✔ Implemented dynamic cart management  
-✔ Developed advanced search & filtering  
-✔ Integrated REST APIs for product & order handling  
-✔ Optimized state management using Hooks & Context  
+✔ Built responsive React-based UI  
+✔ Dynamic cart & optimized state management  
+✔ Advanced search & filtering  
+✔ REST API integration  
+✔ Performance optimization  
+
+---
+
+# 🚀 Featured Projects  
+
+## 🏏 Cricket Turf Booking System  
+
+📌 A full-stack booking platform enabling users to reserve cricket turfs with real-time slot management.
+
+✔ User authentication & authorization  
+✔ Real-time availability tracking  
+✔ Online slot booking system  
+✔ Admin dashboard for turf management  
+✔ Booking history & status tracking  
+✔ Responsive modern UI  
+
+**Tech Used:** React.js / Next.js, Node.js, Express.js, MongoDB / MySQL, REST APIs  
+
+---
+
+## 🛒 Supermart – Online Grocery Web Application  
+
+📌 E-commerce web application for seamless product browsing and order placement.
+
+✔ Dynamic cart functionality  
+✔ Product filtering & search  
+✔ API-based data handling  
+✔ Optimized UI performance  
+
+**Tech Used:** React.js, JavaScript (ES6+), REST APIs  
 
 ---
 
 # 🛠️ Tech Stack  
-
-### 💻 Core  
-JavaScript (ES6+), HTML5, CSS3  
-
-### ⚛️ Frontend  
-React.js, Next.js, Tailwind CSS, Bootstrap, Responsive Design  
-
-### 🧠 State Management  
-React Hooks, Context API, Redux  
-
-### 🔗 Backend & APIs  
-REST APIs, Node.js, Express.js, Spring Boot  
-
-### 🛢️ Databases  
-MongoDB, MySQL  
-
-### ☁️ Cloud & DevOps  
-AWS, Docker, Kubernetes, Terraform, CI/CD  
-
-### 🧰 Tools  
-Git, GitHub, Postman, VS Code, Figma, Netlify, Vercel  
-
----
-
-# 🔥 Tech Icons  
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,spring,mongodb,mysql,docker,aws,kubernetes,terraform,git,github,postman,vscode,vercel,netlify" />
@@ -76,8 +86,8 @@ Git, GitHub, Postman, VS Code, Figma, Netlify, Vercel
 # 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalkondi&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalkondi&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -88,13 +98,10 @@ Git, GitHub, Postman, VS Code, Figma, Netlify, Vercel
 
 # 🌍 Freelance Services  
 
-✔ Full Stack Web Development (React + Next.js + Spring Boot)  
-✔ REST API Development  
-✔ Cloud Deployment (AWS + Docker)  
-✔ CI/CD Implementation  
-✔ Performance Optimization  
-
-📩 Open for freelance collaborations  
+🚀 Full Stack Development (React + Next.js + Spring Boot)  
+☁️ Cloud Deployment (AWS + Docker)  
+🔁 CI/CD Automation  
+⚡ Performance Optimization  
 
 ---
 
@@ -102,10 +109,10 @@ Git, GitHub, Postman, VS Code, Figma, Netlify, Vercel
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishalkondi/">
-    <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vishalkondi21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -113,4 +120,9 @@ Git, GitHub, Postman, VS Code, Figma, Netlify, Vercel
 
 <p align="center">
 ⭐ Building scalable systems. Designing clean UI. Delivering impact.
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
