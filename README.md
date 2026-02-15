@@ -1,43 +1,39 @@
-<!-- ====== HEADER (ADAPTIVE) ====== -->
+<!-- ========= CLEAN HEADER ========= -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Vishal%20Kondi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Vishal%20Kondi&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=35"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Vishal%20Kondi"/>
-  </picture>
-</p>
+<h1 align="center">Vishal Kondi</h1>
 
 <h3 align="center">
-🚀 Frontend Developer @ Rockline Solutions | React & Next.js Specialist | Full Stack Developer | Freelancer
+Frontend Developer @ Rockline Solutions • React & Next.js Specialist • Full Stack Developer • Freelancer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=React.js+%26+Next.js+Developer;Full+Stack+Web+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications;Freelancer+%7C+Problem+Solver"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=React.js+%26+Next.js+Developer;Building+Scalable+Web+Applications;Full+Stack+Engineer;Cloud+%26+DevOps+Enthusiast;Freelancer+%7C+Problem+Solver"/>
 </p>
 
 ---
 
-# 🧑‍💻 About Me  
+# 🧑‍💻 About Me
 
 💼 Frontend Developer at **Rockline Solutions Pvt. Ltd. (Remote)**  
 ⚛️ Specialized in **React.js & Next.js**  
-🛒 Building scalable e-commerce & booking platforms  
+🛒 Experienced in building booking & e-commerce platforms  
 ☕ Backend foundation in **Java & Spring Boot**  
 ☁️ Exploring **AWS, Docker, Kubernetes & CI/CD**  
-🌍 Freelancer delivering production-ready solutions  
+🌍 Freelancer delivering scalable production-ready solutions  
 
 ---
 
-# 💼 Professional Experience  
+# 💼 Professional Experience
 
 ## 👨‍💻 Frontend Developer  
 📍 Rockline Solutions Pvt. Ltd. | Remote  
 📅 Aug 2024 – Present  
 
-### 🛒 Supermart – Online Grocery Platform  
+### 🛒 Supermart – Online Grocery Platform
 
 ✔ Responsive React-based UI  
 ✔ Advanced search & filtering  
@@ -47,28 +43,26 @@
 
 ---
 
-# 🚀 Featured Projects  
+# 🚀 Featured Projects
 
-## 🏏 Cricket Turf Booking System  
+## 🏏 Cricket Turf Booking System
 
-📌 Full-stack booking platform for reserving cricket turfs with real-time slot tracking.
+📌 Full-stack booking platform with real-time slot management.
 
 ✔ User authentication & role-based access  
-✔ Real-time availability system  
-✔ Slot booking & management  
+✔ Real-time availability tracking  
+✔ Booking & slot management  
 ✔ Admin dashboard  
-✔ Booking history tracking  
-✔ Fully responsive UI  
+✔ Booking history system  
+✔ Fully responsive design  
 
-**Tech Used:** React.js / Next.js • Node.js • Express.js • MongoDB / MySQL • REST APIs  
+**Tech Used:** React.js • Next.js • Node.js • Express.js • MongoDB/MySQL • REST APIs  
 
 ---
 
-## 🛒 Supermart – Online Grocery Web Application  
+## 🛒 Supermart – Online Grocery Web Application
 
-📌 E-commerce web application enabling seamless product browsing & order placement.
-
-✔ Cart management  
+✔ Dynamic cart management  
 ✔ Product filtering & search  
 ✔ API-driven architecture  
 ✔ Optimized UI performance  
@@ -77,7 +71,7 @@
 
 ---
 
-# ⚡ Tech Stack  
+# ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,nodejs,express,spring,mongodb,mysql,docker,aws,kubernetes,terraform,git,github,postman,vscode,vercel,netlify&perline=7" />
@@ -85,39 +79,20 @@
 
 ---
 
-# 📊 GitHub Insights  
+# 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=default&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vishalkondi&theme=tokyonight&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vishalkondi&theme=default&hide_border=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalkondi"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalkondi&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vishalkondi&theme=react-dark&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vishalkondi&theme=github-light&hide_border=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalkondi"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalkondi&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🌍 Freelance Services  
+# 🌍 Freelance Services
 
 🚀 Full Stack Development (React + Next.js + Spring Boot)  
 ☁️ Cloud Deployment & Dockerization  
@@ -126,7 +101,7 @@
 
 ---
 
-# 🤝 Connect With Me  
+# 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishalkondi/">
@@ -143,14 +118,6 @@
 ✨ Designing clean interfaces. Building scalable systems. Delivering impact.
 </p>
 
-<!-- ===== FOOTER ===== -->
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
