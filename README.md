@@ -19,6 +19,7 @@
 🌐 Passionate about scalable & high-performance web apps  
 ☁️ Exploring AWS, Docker, Kubernetes & CI/CD  
 🌍 Freelancer delivering full-stack & cloud solutions  
+![Uploading WhatsApp Image 2026-02-13 at 12.32.33 AM.jpeg…]()
 
 ---
 
