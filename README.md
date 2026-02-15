@@ -1,7 +1,7 @@
-<!-- ================= PREMIUM HEADER ================= -->
+<!-- ================= HERO SECTION ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Vishal%20Kondi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Vishal%20Kondi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h3 align="center">
@@ -13,21 +13,21 @@
 </h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Modern+Frontend+Architecture;Full+Stack+Development;Cloud+%26+DevOps+Learning;Clean+Code+%7C+High+Performance+%7C+Impact"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Modern+Frontend+Architecture;Full+Stack+Engineering;Cloud+%26+DevOps+Learning;Clean+Code+%7C+Performance+%7C+Impact"/>
 </p>
 
 ---
 
 # 🧑‍💻 Professional Summary
 
-Passionate Frontend Developer with real-world experience building scalable web applications.  
-Currently developing production-ready React applications at **Rockline Solutions Pvt. Ltd.**
+Passionate Frontend Developer with hands-on experience building scalable, production-ready web applications.  
+Currently developing high-performance React applications at **Rockline Solutions Pvt. Ltd.**
 
-✔ Strong expertise in React & Next.js  
-✔ REST API integration & state management  
-✔ Performance optimization & UI architecture  
-✔ Full stack development experience  
-✔ Cloud & DevOps fundamentals  
+✔ Modern React & Next.js Architecture  
+✔ REST API Integration  
+✔ Advanced State Management  
+✔ Performance Optimization  
+✔ Cloud & DevOps Fundamentals  
 
 ---
 
@@ -39,11 +39,11 @@ Currently developing production-ready React applications at **Rockline Solutions
 
 ### 🛒 Supermart – Online Grocery Platform
 
-✔ Built responsive and scalable UI  
-✔ Implemented advanced search & filtering  
-✔ Developed dynamic cart system  
+✔ Developed responsive and scalable UI  
+✔ Built advanced search & filtering system  
+✔ Implemented dynamic cart functionality  
 ✔ Integrated REST APIs  
-✔ Optimized performance using modern React patterns  
+✔ Optimized application performance  
 
 ---
 
@@ -51,11 +51,11 @@ Currently developing production-ready React applications at **Rockline Solutions
 
 ## 🏏 Cricket Turf Booking System
 
-Full-stack booking platform enabling users to reserve cricket turfs with real-time slot tracking.
+Full-stack booking platform enabling real-time cricket turf reservations.
 
-### Key Features:
+### Key Highlights:
 ✔ Secure authentication & role-based access  
-✔ Real-time slot availability  
+✔ Real-time slot management  
 ✔ Online booking system  
 ✔ Admin dashboard  
 ✔ Booking history tracking  
@@ -67,12 +67,12 @@ Full-stack booking platform enabling users to reserve cricket turfs with real-ti
 
 ## 🛒 Supermart – Online Grocery Web Application
 
-Modern e-commerce platform for seamless shopping experience.
+Modern e-commerce application for seamless product browsing & ordering.
 
-✔ Cart & state management  
-✔ Product filtering & search  
+✔ Dynamic cart management  
+✔ Product search & filtering  
 ✔ API-driven architecture  
-✔ Clean responsive UI  
+✔ Optimized frontend performance  
 
 **Tech Stack:** React.js • JavaScript • REST APIs  
 
@@ -103,18 +103,39 @@ Modern e-commerce platform for seamless shopping experience.
 
 ---
 
-# 🌍 Freelance Services
+# 🚀 Freelance Services
 
-🚀 Full Stack Development (React + Next.js + Spring Boot)  
-☁️ Cloud Deployment & Dockerization  
-🔁 CI/CD Automation  
-⚡ Performance Optimization  
+<p align="center">
+  <img src="https://img.shields.io/badge/⚛️%20Modern%20Web%20Apps-React%20%7C%20Next.js-111827?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Development-Frontend%20%2B%20Backend-111827?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️%20Cloud%20Deployment-AWS%20%7C%20Docker%20%7C%20CI/CD-111827?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔗%20REST%20API%20Development-Scalable%20%7C%20Secure-111827?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡%20Performance%20Optimization-Clean%20%7C%20High%20Speed-111827?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:vishalkondi21@gmail.com">
+    <img src="https://img.shields.io/badge/💬%20Hire%20Me%20Now-Contact%20Vishal-6B46C1?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
 # 🎯 Career Focus
-
-Currently deepening expertise in:
 
 - Advanced React Patterns  
 - Next.js Production Deployment  
@@ -142,5 +163,5 @@ Currently deepening expertise in:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
