@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-🚀 Frontend Developer @ Rockline Solutions Pvt. Ltd.
+🚀 Frontend Developer @ Rockline Solutions Pvt. Ltd
 </h3>
 
 <h4 align="center">
