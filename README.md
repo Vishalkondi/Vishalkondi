@@ -1,49 +1,49 @@
 <!-- ================= HERO SECTION ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Vishal%20Kondi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43,200:2c5364&height=300&section=header&text=Vishal%20Kondi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="center">
-🚀 Frontend Developer @ Rockline Solutions Pvt. 
-</h3>
-
-<h4 align="center">
-⚛️ React.js & Next.js Specialist • 💻 Full Stack Developer • ☁️ DevOps Enthusiast • 🌍 Freelancer
-</h4>
+<h2 align="center">🚀 Frontend Engineer • React & Next.js Specialist</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Modern+Frontend+Architecture;Full+Stack+Engineering;Cloud+%26+DevOps+Learning;Clean+Code+%7C+Performance+%7C+Impact"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Modern+Frontend+Architecture;Full+Stack+Engineering;Cloud+%26+DevOps+Enthusiast;Clean+Code+%7C+Performance+%7C+Impact"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishalkondi&label=Profile+Views&color=38BDF8&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Vishalkondi?label=Followers&style=for-the-badge&color=0ea5e9" />
+  <img src="https://img.shields.io/github/stars/Vishalkondi?label=Stars&style=for-the-badge&color=9333ea" />
 </p>
 
 ---
 
-# 🧑‍💻 Professional Summary
+# 🧑‍💻 About Me
 
-Passionate Frontend Developer with hands-on experience building scalable, production-ready web applications.  
-Currently developing high-performance React applications at **Rockline Solutions Pvt. Ltd.**
-
-✔ Modern React & Next.js Architecture  
-✔ REST API Integration  
-✔ Advanced State Management  
-✔ Performance Optimization  
-✔ Cloud & DevOps Fundamentals  
+```diff
++ Frontend Developer @ Rockline Solutions Pvt. Ltd.
++ React.js & Next.js Production Specialist
++ Scalable REST API Integration
++ Advanced State Management
++ Performance Optimization Expert
++ Learning AWS, Docker & DevOps Automation
+```
 
 ---
 
 # 💼 Professional Experience
 
-## 👨‍💻 Frontend Developer  
+## 🚀 Frontend Developer  
 📍 Rockline Solutions Pvt. Ltd. (Remote)  
 📅 Aug 2024 – Present  
 
 ### 🛒 Supermart – Online Grocery Platform
 
-✔ Developed responsive and scalable UI  
-✔ Built advanced search & filtering system  
-✔ Implemented dynamic cart functionality  
-✔ Integrated REST APIs  
-✔ Optimized application performance  
+✨ Built scalable and responsive UI  
+✨ Advanced search & filtering system  
+✨ Dynamic cart functionality  
+✨ REST API integration  
+✨ Performance optimization  
 
 ---
 
@@ -51,54 +51,56 @@ Currently developing high-performance React applications at **Rockline Solutions
 
 ## 🏏 Cricket Turf Booking System
 
-Full-stack booking platform enabling real-time cricket turf reservations.
+Full-stack real-time booking platform.
 
-### Key Highlights:
 ✔ Secure authentication & role-based access  
 ✔ Real-time slot management  
-✔ Online booking system  
 ✔ Admin dashboard  
-✔ Booking history tracking  
+✔ Booking history  
 ✔ Fully responsive UI  
 
-**Tech Stack:** React.js • Next.js • Node.js • Express.js • MongoDB/MySQL • REST APIs  
+**Tech Stack:**  
+`React.js` • `Next.js` • `Node.js` • `Express.js` • `MongoDB` • `REST APIs`
 
 ---
 
-## 🛒 Supermart – Online Grocery Web Application
+## 🛒 Supermart – E-Commerce Platform
 
-Modern e-commerce application for seamless product browsing & ordering.
-
-✔ Dynamic cart management  
-✔ Product search & filtering  
 ✔ API-driven architecture  
+✔ Product filtering & search  
+✔ Dynamic cart system  
 ✔ Optimized frontend performance  
 
-**Tech Stack:** React.js • JavaScript • REST APIs  
+**Tech Stack:**  
+`React.js` • `JavaScript` • `REST APIs`
 
 ---
 
 # ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,nodejs,express,spring,mongodb,mysql,docker,aws,kubernetes,terraform,git,github,postman,vscode,vercel,netlify&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,nodejs,express,spring,mongodb,mysql,docker,aws,kubernetes,terraform,git,github,postman,vscode,vercel,netlify&perline=8" />
 </p>
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishalkondi&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishalkondi&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishalkondi&theme=tokyonight&utcOffset=5.5"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkondi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vishalkondi&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishalkondi&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -106,39 +108,19 @@ Modern e-commerce application for seamless product browsing & ordering.
 # 🚀 Freelance Services
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚛️%20Modern%20Web%20Apps-React%20%7C%20Next.js-111827?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Development-Frontend%20%2B%20Backend-111827?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/☁️%20Cloud%20Deployment-AWS%20%7C%20Docker%20%7C%20CI/CD-111827?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔗%20REST%20API%20Development-Scalable%20%7C%20Secure-111827?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡%20Performance%20Optimization-Clean%20%7C%20High%20Speed-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚛️%20Modern%20Web%20Apps-React%20%7C%20Next.js-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/💻%20Full%20Stack-Frontend%20%2B%20Backend-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/☁️%20Cloud-AWS%20%7C%20Docker%20%7C%20CI%2FCD-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔗%20REST%20APIs-Scalable%20%7C%20Secure-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡%20Performance-High%20Speed-111827?style=for-the-badge"/>
 </p>
 
 ---
 
-<p align="center">
-  <a href="mailto:vishalkondi21@gmail.com">
-    <img src="https://img.shields.io/badge/💬%20Hire%20Me%20Now-Contact%20Vishal-6B46C1?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-# 🎯 Career Focus
+# 🎯 Career Focus 2026
 
 - Advanced React Patterns  
-- Next.js Production Deployment  
+- Next.js Production Architecture  
 - Scalable System Design  
 - AWS Cloud Architecture  
 - DevOps Automation  
@@ -149,19 +131,19 @@ Modern e-commerce application for seamless product browsing & ordering.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishalkondi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vishalkondi21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hire%20Me-Email%20Now-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-✨ Designing clean interfaces. Building scalable systems. Delivering measurable impact.
+✨ Designing Clean Interfaces • Building Scalable Systems • Delivering Measurable Impact
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:203a43,200:0f2027&height=120&section=footer"/>
 </p>
