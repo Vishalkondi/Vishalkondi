@@ -1,145 +1,169 @@
-<!-- ================= HERO SECTION ================= -->
+# Hi 👋 I'm Vishal Kondi
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=300&section=header&text=Vishal%20Kondi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
+💻 Frontend Developer | React.js | Next.js | DevOps Learner
 
-<h1 align="center">🚀 Frontend Engineer | React & Next.js Specialist</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Modern+Frontend+Architecture;Full+Stack+Engineering;Cloud+%26+DevOps+Enthusiast;Clean+Code+%7C+Performance+%7C+Impact"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishalkondi&label=Profile+Views&color=38BDF8&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Vishalkondi?label=Followers&style=for-the-badge&color=0ea5e9"/>
-  <img src="https://img.shields.io/github/stars/Vishalkondi?label=Stars&style=for-the-badge&color=9333ea"/>
-</p>
+Frontend-focused Software Engineer with experience building scalable web applications using **React.js and Next.js**. Skilled in **REST API integration, Redux Toolkit state management, and performance optimization**. Currently expanding knowledge in **Docker, CI/CD pipelines, and AWS cloud deployment**.
 
 ---
 
-# 🧑‍💻 About Me
+# 👨‍💻 Professional Experience
 
-```diff
-+ Frontend Developer @ Rockline Solutions Pvt. Ltd.
-+ React.js & Next.js Production Specialist
-+ API-Driven Architecture Builder
-+ Performance Optimization Focused
-+ Exploring AWS, Docker & DevOps Automation
-```
+## Frontend Developer  
+**Rockline Solutions Pvt. Ltd.**  
+Aug 2024 – Present | Remote
 
----
-
-# 💼 Professional Experience
-
-## 🚀 Rockline Solutions Pvt. Ltd.
-📅 Aug 2024 – Present  
-📍 Remote  
-
-### 🛒 Supermart – Online Grocery Platform
-
-✨ Scalable UI architecture  
-✨ Advanced search & filtering  
-✨ Dynamic cart system  
-✨ REST API integration  
-✨ Optimized rendering performance  
+- Developed scalable **React.js applications** supporting business workflows
+- Built reusable **UI component libraries**
+- Implemented **Redux Toolkit** for global state management
+- Integrated **REST APIs using Axios**
+- Improved performance with **lazy loading and memoization**
+- Worked in **Agile development environments**
 
 ---
 
-# 🚀 Featured Projects
+## Frontend Developer  
+**Sri Lalitha Traders**  
+Feb 2024 – Jul 2024 | Remote
 
-## 🏏 Cricket Turf Booking System
-
-✔ Secure authentication & role-based access  
-✔ Real-time slot management  
-✔ Admin dashboard  
-✔ Booking history tracking  
-✔ Fully responsive UI  
-
-**Stack:**  
-`React.js` • `Next.js` • `Node.js` • `Express.js` • `MongoDB` • `REST APIs`
+- Developed responsive **React dashboards**
+- Implemented **authentication systems**
+- Built **role-based UI rendering**
+- Integrated backend APIs for real-time data visualization
 
 ---
 
-## 🛒 Supermart – E-Commerce Platform
+## Full Stack Intern  
+**Envision Computer Training Institute Pvt. Ltd.**  
+Jun 2023 – Jan 2024 | Pune
 
-✔ API-driven product architecture  
-✔ Advanced filtering & search  
-✔ Dynamic cart & order flow  
-✔ High-performance frontend  
-
-**Stack:**  
-`React.js` • `JavaScript` • `REST APIs`
-
----
-
-# ⚡ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,nodejs,express,spring,mongodb,mysql,docker,aws,kubernetes,terraform,git,github,postman,vscode,vercel,netlify&perline=8" />
-</p>
+- Built **MERN stack applications**
+- Implemented **authentication and CRUD operations**
+- Designed REST APIs
+- Deployed projects using **Netlify and Vercel**
 
 ---
 
-# 📊 GitHub Intelligence
+# 🚀 Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishalkondi&theme=tokyonight"/>
-</p>
+## Supermart – Online Grocery Web Application
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkondi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+Features:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vishalkondi&theme=tokyonight&hide_border=true"/>
-</p>
+- Product search and filtering
+- Shopping cart functionality
+- REST API integration
+- Responsive user interface
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishalkondi&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+Tech Stack
+
+React.js  
+JavaScript  
+REST APIs  
 
 ---
 
-# 🚀 Freelance & Collaboration
+## Turf Booking System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⚛️%20Modern%20Web%20Apps-React%20%7C%20Next.js-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/💻%20Full%20Stack-Frontend%20%2B%20Backend-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/☁️%20Cloud-AWS%20%7C%20Docker%20%7C%20CI/CD-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡%20Performance-Optimized%20Systems-111827?style=for-the-badge"/>
-</p>
+Features
 
----
+- Real-time turf booking system
+- Dynamic slot availability tracking
+- Booking confirmation workflows
+- Responsive UI
 
-# 🎯 2026 Vision
+Tech Stack
 
-- Advanced React Patterns  
-- Next.js Production Architecture  
-- Scalable System Design  
-- AWS Cloud Infrastructure  
-- DevOps Automation  
+React.js  
+Node.js  
+Express.js  
+MongoDB  
 
 ---
 
-# 🤝 Connect With Me
+# 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishalkondi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vishalkondi21@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Email%20Now-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## Languages
+JavaScript (ES6+)  
+Core Java
+
+## Frontend
+React.js  
+Next.js  
+Redux Toolkit  
+HTML5  
+CSS3  
+Tailwind CSS  
+Bootstrap
+
+## Backend
+Node.js  
+Express.js  
+REST APIs
+
+## Databases
+MongoDB  
+MySQL  
+PostgreSQL  
+Redis  
+Apache Solr
+
+## DevOps & Tools
+Git  
+GitHub  
+Docker  
+CI/CD  
+Jenkins (Basic)  
+Linux
+
+## Cloud
+AWS (EC2, S3)  
+Netlify  
+Vercel
 
 ---
 
-<p align="center">
-✨ Designing Clean Interfaces • Engineering Scalable Systems • Delivering Real Impact
-</p>
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=130&section=footer"/>
-</p>
+![Vishal GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkondi&layout=compact)
+
+---
+
+# 🎯 Currently Learning
+
+- Advanced React architecture
+- Next.js production applications
+- Docker containerization
+- CI/CD pipelines
+- AWS cloud deployment
+
+---
+
+# 🎓 Education
+
+**B.Tech – Computer Science and Engineering**
+
+Vidya Vikas Pratishthan Institute of Engineering  
+Solapur, India  
+CGPA: **8.29 / 10**
+
+---
+
+# 📫 Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/vishal-kondi
+
+Email  
+vishalkondi21@gmail.com
+
+GitHub  
+https://github.com/Vishalkondi
+
+Portfolio  
+https://vercel.com/vishal-kondi
+
+---
+
+⭐ Always open to collaboration on React, Frontend, and Cloud projects
