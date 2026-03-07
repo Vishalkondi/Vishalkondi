@@ -1,169 +1,30 @@
-# Hi 👋 I'm Vishal Kondi
+<!-- ================= HERO HEADER ================= -->
 
-💻 Frontend Developer | React.js | Next.js | DevOps Learner
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Vishal%20Kondi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
 
-Frontend-focused Software Engineer with experience building scalable web applications using **React.js and Next.js**. Skilled in **REST API integration, Redux Toolkit state management, and performance optimization**. Currently expanding knowledge in **Docker, CI/CD pipelines, and AWS cloud deployment**.
+<h1 align="center">👨‍💻 Vishal Kondi</h1>
 
----
+<h3 align="center">Frontend Developer | React.js | Next.js | DevOps Enthusiast</h3>
 
-# 👨‍💻 Professional Experience
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Frontend+Engineer;React.js+%7C+Next.js+Developer;REST+API+Integration;Redux+Toolkit+State+Management;DevOps+Learner+%7C+Docker+%7C+AWS"/>
+</p>
 
-## Frontend Developer  
-**Rockline Solutions Pvt. Ltd.**  
-Aug 2024 – Present | Remote
-
-- Developed scalable **React.js applications** supporting business workflows
-- Built reusable **UI component libraries**
-- Implemented **Redux Toolkit** for global state management
-- Integrated **REST APIs using Axios**
-- Improved performance with **lazy loading and memoization**
-- Worked in **Agile development environments**
-
----
-
-## Frontend Developer  
-**Sri Lalitha Traders**  
-Feb 2024 – Jul 2024 | Remote
-
-- Developed responsive **React dashboards**
-- Implemented **authentication systems**
-- Built **role-based UI rendering**
-- Integrated backend APIs for real-time data visualization
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vishalkondi&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/followers/Vishalkondi?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Vishalkondi?style=for-the-badge"/>
+</p>
 
 ---
 
-## Full Stack Intern  
-**Envision Computer Training Institute Pvt. Ltd.**  
-Jun 2023 – Jan 2024 | Pune
+# 🚀 About Me
 
-- Built **MERN stack applications**
-- Implemented **authentication and CRUD operations**
-- Designed REST APIs
-- Deployed projects using **Netlify and Vercel**
-
----
-
-# 🚀 Projects
-
-## Supermart – Online Grocery Web Application
-
-Features:
-
-- Product search and filtering
-- Shopping cart functionality
-- REST API integration
-- Responsive user interface
-
-Tech Stack
-
-React.js  
-JavaScript  
-REST APIs  
-
----
-
-## Turf Booking System
-
-Features
-
-- Real-time turf booking system
-- Dynamic slot availability tracking
-- Booking confirmation workflows
-- Responsive UI
-
-Tech Stack
-
-React.js  
-Node.js  
-Express.js  
-MongoDB  
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-JavaScript (ES6+)  
-Core Java
-
-## Frontend
-React.js  
-Next.js  
-Redux Toolkit  
-HTML5  
-CSS3  
-Tailwind CSS  
-Bootstrap
-
-## Backend
-Node.js  
-Express.js  
-REST APIs
-
-## Databases
-MongoDB  
-MySQL  
-PostgreSQL  
-Redis  
-Apache Solr
-
-## DevOps & Tools
-Git  
-GitHub  
-Docker  
-CI/CD  
-Jenkins (Basic)  
-Linux
-
-## Cloud
-AWS (EC2, S3)  
-Netlify  
-Vercel
-
----
-
-# 📊 GitHub Stats
-
-![Vishal GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkondi&layout=compact)
-
----
-
-# 🎯 Currently Learning
-
-- Advanced React architecture
-- Next.js production applications
-- Docker containerization
-- CI/CD pipelines
-- AWS cloud deployment
-
----
-
-# 🎓 Education
-
-**B.Tech – Computer Science and Engineering**
-
-Vidya Vikas Pratishthan Institute of Engineering  
-Solapur, India  
-CGPA: **8.29 / 10**
-
----
-
-# 📫 Connect With Me
-
-LinkedIn  
-https://linkedin.com/in/vishal-kondi
-
-Email  
-vishalkondi21@gmail.com
-
-GitHub  
-https://github.com/Vishalkondi
-
-Portfolio  
-https://vercel.com/vishal-kondi
-
----
-
-⭐ Always open to collaboration on React, Frontend, and Cloud projects
+```diff
++ Frontend Developer @ Rockline Solutions Pvt. Ltd.
++ Specialist in React.js & Next.js
++ API Driven Web Application Development
++ Redux Toolkit State Management
++ DevOps Learner (Docker | CI/CD | AWS)
