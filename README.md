@@ -51,6 +51,14 @@
   <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible,githubactions" />
 </p>
 
+- CI/CD Pipelines (Jenkins, GitHub Actions, AWS CodePipeline)  
+- Containerization (Docker) & Orchestration (Kubernetes)  
+- Infrastructure as Code (Terraform, Ansible)  
+- AWS Services (EC2, S3, VPC, IAM, ELB, RDS, Lambda, ECS)  
+- Linux & Bash Scripting  
+- Monitoring: Prometheus, Grafana, CloudWatch  
+- Security: SonarQube, Trivy, OWASP  
+
 ---
 
 ## 🧪 Skills (QA • Automation • Testing)
@@ -61,8 +69,6 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Performance_Testing-7952B3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
 ### 🔍 Testing Expertise
