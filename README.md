@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vishal Kondi
 
 🚀 Frontend Engineer | React & Next.js Developer  
-💻 Full Stack MERN Developer | 2.5+ Years Experience  
+💻 Full Stack MERN Developer | QA & DevOps Enthusiast  
 
 ---
 
@@ -9,6 +9,7 @@
 
 - ⚛️ Building scalable web apps with React & Next.js  
 - 🔗 Strong in APIs & performance optimization  
+- 🧪 Experience in Manual Testing & QA practices  
 - ☁️ Learning AWS, Docker & DevOps  
 
 ---
@@ -37,9 +38,19 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+### 🧪 QA / Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+- Manual Testing  
+- Test Case Writing  
+- API Testing (Postman)  
+- Bug Tracking & Reporting  
+
 ### ☁️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel" />
 </p>
 
 ---
@@ -57,4 +68,4 @@
 
 ---
 
-✨ Building scalable apps. Learning every day.
+✨ Building scalable apps • Ensuring quality • Learning every day
