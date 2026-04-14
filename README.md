@@ -1,71 +1,108 @@
-# 👋 Hi, I'm Vishal Kondi
+<h1 align="center">👋 Hi, I'm Vishal Kondi</h1>
 
-🚀 Frontend Engineer | React & Next.js Developer  
-💻 Full Stack MERN Developer | QA & DevOps Enthusiast  
+<p align="center">
+  🚀 Frontend Engineer • React & Next.js Developer <br/>
+  💻 Full Stack • QA • Automation • DevOps • Cloud Engineer
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- ⚛️ Building scalable web apps with React & Next.js  
-- 🔗 Strong in APIs & performance optimization  
-- 🧪 Experience in Manual Testing & QA practices  
-- ☁️ Learning AWS, Docker & DevOps  
+- ⚛️ Build scalable apps using **React, Next.js & modern JS**
+- 🔗 Strong in **API integration & performance optimization**
+- 🧪 Skilled in **Testing (Manual + Automation)**
+- ☁️ Hands-on with **AWS, DevOps & CI/CD pipelines**
 
 ---
 
 ## 🚀 Projects
 
-- 🏏 Cricket Turf Booking System (MERN Stack)  
+- 🏏 Cricket Turf Booking System  
 - 🛒 Supermart E-Commerce Platform  
 
 ---
 
 ## ⚡ Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+### 🎯 Core Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,ts,git" />
 </p>
 
-### 🧠 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+---
+
+### 🧠 Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
 </p>
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+---
+
+### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,aws" />
 </p>
 
-### 🧪 QA / Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" />
+---
+
+### ⚙️ DevOps & CI/CD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible,githubactions" />
 </p>
 
-- Manual Testing  
-- Test Case Writing  
-- API Testing (Postman)  
-- Bug Tracking & Reporting  
+---
 
-### ☁️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel" />
+## 🧪 Skills (QA • Automation • Testing)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Manual_Testing-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation_Testing-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Performance_Testing-7952B3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
+
+### 🔍 Testing Expertise
+- Functional Testing • Regression Testing • Smoke & Sanity Testing  
+- Black Box & White Box Testing • Retesting • Ad-hoc Testing  
+- UT & UAT • SDLC & STLC  
+
+### ⚙️ Tools & Technologies
+- Selenium • TestNG • Maven • JIRA • Postman  
+- SQL • Core Java • Git & GitHub  
+
+### 🔄 Methodologies
+- Agile • Scrum Framework • CI/CD  
+
+### 🐞 Bug Management
+- Bug Tracking • Reporting • Analysis  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/vishalkondi/  
-📧 Email: vishalkondi21@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishalkondi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vishalkondi21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-✨ Building scalable apps • Ensuring quality • Learning every day
+<p align="center">
+✨ Full Stack • QA • Automation • DevOps • Cloud Engineer
+</p>
