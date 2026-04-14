@@ -1,6 +1,14 @@
 <h1 align="center">👋 Hi, I'm Vishal Kondi</h1>
 
 <p align="center">
+📍 Pune, Maharashtra, India <br/>
+📧 vishalkondi21@gmail.com • 📞 +91-8625076298 <br/>
+🔗 <a href="https://www.linkedin.com/in/vishalkondi/">LinkedIn</a> • 
+🐙 <a href="https://github.com/Vishalkondi">GitHub</a> • 
+🌐 Portfolio
+</p>
+
+<p align="center">
   🚀 Frontend Engineer • React & Next.js Developer <br/>
   💻 Full Stack • QA • Automation • DevOps • Cloud Engineer
 </p>
@@ -52,10 +60,10 @@
 </p>
 
 - CI/CD Pipelines (Jenkins, GitHub Actions, AWS CodePipeline)  
-- Containerization (Docker) & Orchestration (Kubernetes)  
-- Infrastructure as Code (Terraform, Ansible)  
-- AWS Services (EC2, S3, VPC, IAM, ELB, RDS, Lambda, ECS)  
-- Linux & Bash Scripting  
+- Docker & Kubernetes  
+- Terraform & Ansible  
+- AWS (EC2, S3, VPC, IAM, ELB, RDS, Lambda, ECS)  
+- Linux & Bash  
 - Monitoring: Prometheus, Grafana, CloudWatch  
 - Security: SonarQube, Trivy, OWASP  
 
@@ -72,16 +80,16 @@
 </p>
 
 ### 🔍 Testing Expertise
-- Functional Testing • Regression Testing • Smoke & Sanity Testing  
-- Black Box & White Box Testing • Retesting • Ad-hoc Testing  
-- UT & UAT • SDLC & STLC  
+- Functional • Regression • Smoke & Sanity  
+- Black Box • White Box • Retesting • Ad-hoc  
+- UT • UAT • SDLC • STLC  
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools
 - Selenium • TestNG • Maven • JIRA • Postman  
 - SQL • Core Java • Git & GitHub  
 
 ### 🔄 Methodologies
-- Agile • Scrum Framework • CI/CD  
+- Agile • Scrum • CI/CD  
 
 ### 🐞 Bug Management
 - Bug Tracking • Reporting • Analysis  
@@ -92,19 +100,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishalkondi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vishalkondi21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
