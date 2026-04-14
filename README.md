@@ -22,7 +22,25 @@
 
 ## ⚡ Tech Stack
 
-React • Next.js • JavaScript • Node.js • Express • MongoDB • MySQL • Docker • AWS  
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+</p>
+
+### 🧠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vercel" />
+</p>
 
 ---
 
