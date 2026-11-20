@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <h1 align="center">Hi 👋, I'm Vishal Kondi</h1>
 
 <p align="center">
@@ -27,10 +29,22 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Vishalkondi?label=Followers&style=social" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/Vishalkondi?label=Stars&style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/last-commit/Vishalkondi/Vishalkondi?label=Profile%20updated&style=flat-square&color=2563eb" alt="Last updated"/>
+</p>
+
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#what-i-do">What I do</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#learning">Learning</a> ·
+  <a href="#stats">Stats</a> ·
+  <a href="#connect">Connect</a>
 </p>
 
 ---
 
+<a name="about"></a>
 ## 👨‍💻 About me
 
 - 💼 Software Engineer at **Aramus Technosoft Solutions Pvt. Ltd.**, Hyderabad.
@@ -38,19 +52,23 @@
 - 🧪 I write test automation (Selenium, Playwright, Postman) as an SDET.
 - 🌐 I build full stack apps with **React, Next.js, Node.js and MongoDB/PostgreSQL**.
 - 🏪 I also build websites and platforms for local businesses.
+- 💬 Ask me about: Docker, GitHub Actions, AWS, test automation, Next.js.
 - 📫 Reach me at **[vishalkondi21@gmail.com](mailto:vishalkondi21@gmail.com)**
 
+```text
+const vishal = {
+  role: "Software Engineer",
+  company: "Aramus Technosoft Solutions",
+  location: "Hyderabad, India",
+  focus: ["DevOps", "Cloud", "QA Automation", "Full Stack"],
+  currentlyLearning: ["AWS Lambda", "Kubernetes", "DevSecOps", "AI Engineering"],
+  funFact: "I build real websites for local businesses, not just demo apps.",
+};
+```
+
 ---
 
-## 💼 Experience
-
-| Role | Company | Period |
-|---|---|---|
-| Software Engineer | Aramus Technosoft Solutions Pvt. Ltd., Hyderabad | Oct 2026 – Present |
-| Associate Software Engineer | Aramus Technosoft Solutions Pvt. Ltd., Hyderabad | Oct 2023 – Oct 2026 |
-
----
-
+<a name="what-i-do"></a>
 ## 🎯 What I do
 
 | ☁️ DevOps and Cloud | 🧪 QA Automation | 🌐 Full Stack |
@@ -62,6 +80,7 @@
 
 ---
 
+<a name="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 **☁️ DevOps and Cloud**
@@ -76,15 +95,35 @@
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,selenium,postman,vscode&perline=10" alt="Databases and QA tools"/>
 
+**📈 Skill focus**
+
+| Skill | Level |
+|---|---|
+| Docker and CI/CD | `██████████░` Strong |
+| AWS | `████████░░░` Growing |
+| Test Automation | `█████████░░` Strong |
+| Full Stack (Next.js, Node) | `█████████░░` Strong |
+| Kubernetes | `██████░░░░░` Learning |
+| Terraform | `██████░░░░░` Learning |
+
 ---
 
+<a name="projects"></a>
 ## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Vishalkondi/devops-cicd-aws"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishalkondi&repo=devops-cicd-aws&theme=tokyonight&hide_border=true" alt="devops-cicd-aws"/></a>
+  <a href="https://github.com/Vishalkondi/DevOps-Automated-Website-Deployment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishalkondi&repo=DevOps-Automated-Website-Deployment&theme=tokyonight&hide_border=true" alt="DevOps-Automated-Website-Deployment"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Vishalkondi/Hind_Aquatech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishalkondi&repo=Hind_Aquatech&theme=tokyonight&hide_border=true" alt="Hind_Aquatech"/></a>
+  <a href="https://github.com/Vishalkondi/supermart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishalkondi&repo=supermart&theme=tokyonight&hide_border=true" alt="supermart"/></a>
+</p>
 
 | Project | Description | Tech |
 |---|---|---|
 | [devops-cicd-aws](https://github.com/Vishalkondi/devops-cicd-aws) | Flask app containerized and deployed through a CI/CD pipeline | Docker · GitHub Actions · ECR · EC2 |
 | [DevOps-Automated-Website-Deployment](https://github.com/Vishalkondi/DevOps-Automated-Website-Deployment) | Static site with fully automated build and deploy | Docker · Docker Hub · GitHub Actions · EC2 |
-| [ecommerce-cicd](https://github.com/Vishalkondi/ecommerce-cicd) | E-commerce app built in phases to learn CI/CD on AWS | GitHub Actions · Docker · EKS |
 | [Hind Aquatech](https://github.com/Vishalkondi/Hind_Aquatech) | Water filter e-commerce platform | Next.js · TypeScript · Node · MongoDB |
 | [Supermart](https://github.com/Vishalkondi/supermart) | Grocery delivery platform | MERN |
 
@@ -102,6 +141,15 @@ All repositories: [github.com/Vishalkondi?tab=repositories](https://github.com/V
 
 ---
 
+## 🔨 Currently working on
+
+- 🚧 Automating deployments with GitHub Actions, Docker and AWS EC2
+- 🚧 Learning Kubernetes, Terraform and DevSecOps (Trivy, SonarQube, ZAP)
+- 🚧 Building production-style full stack projects
+
+---
+
+<a name="learning"></a>
 ## 🌱 Currently Learning
 
 | Topic | Focus |
@@ -113,6 +161,7 @@ All repositories: [github.com/Vishalkondi?tab=repositories](https://github.com/V
 
 ---
 
+<a name="stats"></a>
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -142,6 +191,7 @@ All repositories: [github.com/Vishalkondi?tab=repositories](https://github.com/V
 
 ---
 
+<a name="connect"></a>
 ## 🤝 Let's connect
 
 I'm open to talking about DevOps, cloud, test automation and full stack projects.
@@ -149,8 +199,11 @@ I'm open to talking about DevOps, cloud, test automation and full stack projects
 <p align="center">
   <a href="https://linkedin.com/in/vishal-kondi"><img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message on LinkedIn"/></a>
   <a href="mailto:vishalkondi21@gmail.com"><img src="https://img.shields.io/badge/Send%20me-an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
+  <a href="https://hub.docker.com/u/vishalkondi21"><img src="https://img.shields.io/badge/See%20my-Docker%20images-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/></a>
 </p>
 
 <p align="center">
+  <a href="#top">⬆️ Back to top</a>
+  <br/><br/>
   ⭐ If you like my work, give my repos a star. Thanks for stopping by!
 </p>
