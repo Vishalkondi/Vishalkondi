@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Kondi</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vishalkondi/Vishalkondi/main/banner.png" alt="Vishal Kondi - DevOps | QA Automation | Full Stack" width="100%"/>
+<img width="1600" height="420" alt="banner" src="https://github.com/user-attachments/assets/90431c19-0877-4e6b-b5b2-ea36f75580aa" />
 </p>
 
 <p align="center">
