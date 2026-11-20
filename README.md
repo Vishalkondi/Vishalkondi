@@ -1,109 +1,69 @@
-<h1 align="center">👋 Hi, I'm Vishal Kondi</h1>
+<h1 align="center">Hi 👋, I'm Vishal Kondi</h1>
+<hr/>
 
 <p align="center">
-📍 Pune, Maharashtra, India <br/>
-📧 vishalkondi21@gmail.com • 📞 +91-8625076298 <br/>
-🔗 <a href="https://www.linkedin.com/in/vishalkondi/">LinkedIn</a> • 
-🐙 <a href="https://github.com/Vishalkondi">GitHub</a> • 
-🌐 Portfolio
+  <img src="banner.png" alt="Vishal Kondi - DevOps | QA Automation | Full Stack"/>
+</p>
+
+<h3 align="center">
+  A passionate Software Engineer from India, building and automating things with DevOps, QA and Full Stack.<br/>
+  Based in Hyderabad 📍
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishalkondi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
-  🚀 Frontend Engineer • React & Next.js Developer <br/>
-  💻 Full Stack • QA • Automation • DevOps • Cloud Engineer
+  <a href="https://github.com/Vishalkondi"><img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/></a>
 </p>
 
----
+- 👨‍💻 All of my projects are available at [github.com/Vishalkondi?tab=repositories](https://github.com/Vishalkondi?tab=repositories)
+- 🐳 My Docker images: [hub.docker.com/u/vishalkondi21](https://hub.docker.com/u/vishalkondi21)
+- 📫 How to reach me: **[vishalkondi21@gmail.com](mailto:vishalkondi21@gmail.com)**
+- 💼 Connect on LinkedIn: [linkedin.com/in/vishal-kondi](https://linkedin.com/in/vishal-kondi)
+- 🎓 B.Tech in Computer Science (2023) · 2.5+ years of experience
 
-## 👨‍💻 About Me
+## 🔗 Connect with me:
 
-- ⚛️ Build scalable apps using **React, Next.js & modern JS**
-- 🔗 Strong in **API integration & performance optimization**
-- 🧪 Skilled in **Testing (Manual + Automation)**
-- ☁️ Hands-on with **AWS, DevOps & CI/CD pipelines**
-
----
-
-## 🚀 Projects
-
-- 🏏 Cricket Turf Booking System  
-- 🛒 Supermart E-Commerce Platform  
-
----
-
-## ⚡ Tech Stack
-
-### 🎯 Core Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,ts,git" />
+<p>
+  <a href="https://linkedin.com/in/vishal-kondi"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/Vishalkondi"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://hub.docker.com/u/vishalkondi21"><img src="https://skillicons.dev/icons?i=docker" alt="Docker Hub"/></a>
+  <a href="mailto:vishalkondi21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
 </p>
 
----
+## 🛠️ Languages and Tools:
 
-### 🧠 Backend & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,jenkins,linux,git,bash&perline=10" alt="DevOps tools"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,python,spring&perline=10" alt="Languages and frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,selenium,postman,vscode&perline=10" alt="Databases and QA tools"/>
 </p>
 
----
+## 🚀 Featured Projects
 
-### 🗄️ Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,aws" />
-</p>
+| Project | What it is |
+|---|---|
+| [devops-cicd-aws](https://github.com/Vishalkondi/devops-cicd-aws) | Flask app in Docker, deployed with GitHub Actions → ECR → EC2 |
+| [DevOps-Automated-Website-Deployment](https://github.com/Vishalkondi/DevOps-Automated-Website-Deployment) | Static site → Docker → Docker Hub → GitHub Actions → AWS EC2 |
+| [Hind Aquatech](https://github.com/Vishalkondi/Hind_Aquatech) | Water filter e-commerce platform (Next.js, Node, MongoDB) |
+| [Supermart](https://github.com/Vishalkondi/supermart) | Grocery delivery MERN platform |
 
----
+## 🌱 Currently learning
 
-### ⚙️ DevOps & CI/CD
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible,githubactions" />
-</p>
+- ☁️ AWS (Lambda, EKS) and Azure DevSecOps
+- 🐳 Docker, Kubernetes and CI/CD pipelines
+- 🤖 AI engineering (LLM apps, agents)
 
-- CI/CD Pipelines (Jenkins, GitHub Actions, AWS CodePipeline)  
-- Docker & Kubernetes  
-- Terraform & Ansible  
-- AWS (EC2, S3, VPC, IAM, ELB, RDS, Lambda, ECS)  
-- Linux & Bash  
-- Monitoring: Prometheus, Grafana, CloudWatch  
-- Security: SonarQube, Trivy, OWASP  
-
----
-
-## 🧪 Skills (QA • Automation • Testing)
+## 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Manual_Testing-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation_Testing-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalkondi&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
-### 🔍 Testing Expertise
-- Functional • Regression • Smoke & Sanity  
-- Black Box • White Box • Retesting • Ad-hoc  
-- UT • UAT • SDLC • STLC  
+## ☕ Support
 
-### ⚙️ Tools
-- Selenium • TestNG • Maven • JIRA • Postman  
-- SQL • Core Java • Git & GitHub  
-
-### 🔄 Methodologies
-- Agile • Scrum • CI/CD  
-
-### 🐞 Bug Management
-- Bug Tracking • Reporting • Analysis  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkondi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-✨ Full Stack • QA • Automation • DevOps • Cloud Engineer
-</p>
+If you like my work, give a ⭐ to my repos. Thanks for stopping by!
