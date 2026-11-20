@@ -1,8 +1,7 @@
-![Uploading banner.png…]()
 <h1 align="center">Hi 👋, I'm Vishal Kondi</h1>
 
 <p align="center">
-  <img src="" alt="Vishal Kondi - DevOps | QA Automation | Full Stack" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Vishalkondi/Vishalkondi/main/banner.png" alt="Vishal Kondi - DevOps | QA Automation | Full Stack" width="100%"/>
 </p>
 
 <p align="center">
