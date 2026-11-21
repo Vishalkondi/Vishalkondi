@@ -35,9 +35,10 @@
 <p align="center">
   <a href="#about">About</a> ·
   <a href="#what-i-do">What I do</a> ·
+  <a href="#services">Services</a> ·
   <a href="#tech-stack">Tech Stack</a> ·
   <a href="#projects">Projects</a> ·
-  <a href="#learning">Learning</a> ·
+  <a href="#roadmap">Roadmap</a> ·
   <a href="#stats">Stats</a> ·
   <a href="#connect">Connect</a>
 </p>
@@ -80,6 +81,20 @@ const vishal = {
 
 ---
 
+<a name="services"></a>
+## 💼 Services I offer
+
+| Service | What you get |
+|---|---|
+| 🌐 **Business websites** | Fast, mobile-friendly websites for local and small businesses |
+| 🛒 **E-commerce platforms** | Product catalog, cart, orders and payments |
+| 🚀 **CI/CD and deployment** | Docker, GitHub Actions and AWS setup so deployments are automatic |
+| 🧪 **Test automation** | Selenium, Playwright and API test suites for your app |
+
+📩 Have a project in mind? [Email me](mailto:vishalkondi21@gmail.com?subject=Project%20inquiry) or [message me on LinkedIn](https://linkedin.com/in/vishal-kondi).
+
+---
+
 <a name="tech-stack"></a>
 ## 🛠️ Tech Stack
 
@@ -94,6 +109,16 @@ const vishal = {
 **🗄️ Databases and QA**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,selenium,postman,vscode&perline=10" alt="Databases and QA tools"/>
+
+**🔐 Security and monitoring tools I'm learning**
+
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
+<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
 
 **📈 Skill focus**
 
@@ -149,15 +174,18 @@ All repositories: [github.com/Vishalkondi?tab=repositories](https://github.com/V
 
 ---
 
-<a name="learning"></a>
-## 🌱 Currently Learning
+<a name="roadmap"></a>
+## 🗺️ Learning Roadmap
 
-| Topic | Focus |
-|---|---|
-| ☁️ AWS | Lambda, EKS, serverless |
-| 🔐 Azure and DevSecOps | Security in CI/CD pipelines |
-| ☸️ Kubernetes | Deployments, Helm, GitOps |
-| 🤖 AI Engineering | LLM apps and agents |
+- [x] Git, Linux and GitHub
+- [x] Docker and containers
+- [x] CI/CD with GitHub Actions
+- [x] Deploying apps on AWS EC2
+- [ ] AWS Lambda and serverless
+- [ ] Kubernetes and Helm
+- [ ] Terraform (infrastructure as code)
+- [ ] DevSecOps (Trivy, SonarQube, ZAP)
+- [ ] AI engineering (LLM apps and agents)
 
 ---
 
@@ -183,7 +211,11 @@ All repositories: [github.com/Vishalkondi?tab=repositories](https://github.com/V
 
 ---
 
-## 💬 Quote of the day
+## 😄 Dev joke and quote
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke"/>
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
@@ -206,4 +238,8 @@ I'm open to talking about DevOps, cloud, test automation and full stack projects
   <a href="#top">⬆️ Back to top</a>
   <br/><br/>
   ⭐ If you like my work, give my repos a star. Thanks for stopping by!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" alt="Footer wave"/>
 </p>
